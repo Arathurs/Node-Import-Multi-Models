@@ -1,4 +1,4 @@
-# Function to easily import all required Node.js Models automatically with one line in App.js
+## Function to easily import all required Node.js Models automatically with one line in App.js
 
 ### About the Project
 
